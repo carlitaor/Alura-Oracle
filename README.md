@@ -1,2 +1,2 @@
 # Alura-Oracle
-En este repositorio voy a resolver ejercicios, pruebas y desafios de la plataforma Alura en el marco del curso junto con Oracle, para llevar un registro mas ordenado de mi progreso y de las habilidades que voy adquiriendo en programacion y en el uso fluido de git
+Repositorio en el marco del curso ONE junto con Alura Latam y Oracle
