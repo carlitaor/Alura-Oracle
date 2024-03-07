@@ -1,6 +1,11 @@
 //Desafíos:
 
-//Crea una función que calcule el índice de masa corporal (IMC) de una persona a partir de su altura en metros y peso en kilogramos, que se recibirán como parámetros.
+//Crea una función que calcule el índice de masa corporal (IMC) de una persona a partir 
+//de su altura en metros y peso en kilogramos, que se recibirán como parámetros.
+function calcularIMC(altura, peso) {
+    let IMC = peso / (altura*altura);
+    return IMC;
+}
 
 //Crea una función que calcule el valor del factorial de un número pasado como parámetro.
 
